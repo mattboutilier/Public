@@ -4,9 +4,7 @@ Cybersecurity Student | Nova Scotia Community College
 W0498901@nscc.ca | mboutilier@proton.me
 
 Digital Business Card: https://popl.co/card/0bBIvbeQ/1/dash
-
-==============================================================================================================
-
+# 
 _This GitHub repository contains code and data, including
 malware samples, proof-of-concept exploits, and potentially
 harmful scripts, generated or collected strictly for
