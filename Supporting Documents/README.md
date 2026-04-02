@@ -1,0 +1,2 @@
+# Supporting Documents
+This section contains formal endorsements and professional acknowledgments that attest to my character, work ethic, and technical competence. It includes letters of recommendation and referencex from past supervisors and academic instructors who have overseen my performance in both high-pressure environments and specialized IT roles. These documents serve to validate the practical application of my skills, my reliability as a team lead, and my consistent commitment to maintaining professional standards in every project I undertake.
