@@ -1,0 +1,2 @@
+# Generic Cybersecurity Training Plan
+This section contains materials focused on the human element of cybersecurity. It includes a complete internal training campaign designed to move employees toward active data stewardship. The documents and presentations cover critical topics such as FOIPOP, PIPEDA, and the risks of "Shadow AI," providing organizations with actionable strategies and competency assessments to strengthen their overall privacy posture.

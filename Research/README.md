@@ -1,0 +1,2 @@
+# Research Projects
+This folder houses deep-dive analyses into the evolving landscape of global cyber threats and the regulatory frameworks governing them. The projects range from investigating the infrastructure and motivations of nation-state actors like the DPRK to exploring the "Ransomware-as-a-Service" models used by organized crime groups such as REvil. It also includes research on Nova Scotian and Canadian data breach regulations, ensuring a strong understanding of legal compliance and PII protection requirements.

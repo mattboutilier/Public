@@ -1,0 +1,2 @@
+# Centralized Device Management
+This section demonstrates technical proficiency in securing and managing organizational endpoints. The included projects focused on implementing Unified Endpoint Management (UEM) through Microsoft Intune to replace manual tracking with automated, Zero Trust-aligned policies. Additionally, this folder contains comprehensive vulnerability assessments conducted with Nessus on local devices, showcasing the ability to perform both credentialed and uncredentialed scans to identify, analyze, and prioritize the mitigation of system flaws.

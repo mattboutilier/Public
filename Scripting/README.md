@@ -1,0 +1,2 @@
+# Bash Scripting
+This directory showcases the application of automation to enhance network security. It features custom Bash scripts designed for active network monitoring and threat detection by identifying changes in open ports. These tools emphasize a proactive approach to security, utilizing scripting to provide early warnings for unauthorized services or potential intrusions on a network.
