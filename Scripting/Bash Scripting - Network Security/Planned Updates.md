@@ -1,4 +1,4 @@
 * Ping
 * Traceroute
-* NS Lookup
-* GeoIP
+* NS Lookup / WHOIS Lookup
+* GeoIP & Mapping
