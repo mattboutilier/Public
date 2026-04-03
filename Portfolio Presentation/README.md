@@ -1,2 +1,0 @@
-# Visual Portfolio
-This directory contains a high-level overview of professional and academic milestones. The presentation serves as a curated summary of core foundations, including ethics, accountability, and collaboration, while highlighting key technical projects. It is designed to provide viewers with a quick yet thorough understanding of the skill set and practical experiences gained throughout the cybersecurity program.
